@@ -1,0 +1,4 @@
+This directory serves as a temporary workspace for my JavaScript files that I'm creating while learning to code in the language. Once I've completed these projects, I'll transfer their contents into my primary learning repository. The reason for not directly building these programs in my GitHub repository is because I encountered difficulties with the terminal and PowerShell in locating the correct directory when running my .js files. Creating standalone files seemed to resolve these issues.
+
+
+It appears that many fundamental aspects of programming are quite consistent at this stage. Instead of going through the rudimentary concepts, which, while they may differ in some respects (such as var and let, for instance), I have decided to deviate from the traditional learning approach and dive directly into creating a new program without dwelling on the basics as I am getting very board.

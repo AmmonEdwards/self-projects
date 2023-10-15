@@ -1,0 +1,27 @@
+.cell{
+    width: 75px;
+    height: 75px;
+    border: 2px solid;
+    box-shadow: 0 0 0 2px;
+    line-height: 75px;
+    font-size: 50px;
+    cursor: pointer;
+}
+
+#gameContainer{
+    font-family: "Permanent Marker", cursive; 
+    text-align: center;
+
+/* 
+"I'm experiencing an issue in Microsoft Edge where the font doesn't update on my live server when I reload the page. This might be related to a Windows setting on my end. Additionally, I'm having trouble aligning the text properly.
+EDIT: I realized that the issue was my mistake; I didn't include these elements within the game container as they were outside the block. I'm glad I cought that and am suprized I did not see it untill now.
+*/
+
+}
+
+#cellContainer{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 225px;
+    margin: auto;
+}
