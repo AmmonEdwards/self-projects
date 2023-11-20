@@ -2,15 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <!-- The following meta tag sets the viewport for responsive design -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <!-- Link to an external CSS file for styling -->
     <link rel="stylesheet" href="style.css">
-
 </head>
 <body>
+    <!-- The main container for the Tic Tac Toe game -->
     <div id="gameContainer">
+        <!-- Title of the game -->
         <h1>Tic Tac Toe</h1> 
+        <!-- Container for the game board cells -->
         <div id="cellContainer">
+            <!-- Individual cells for the Tic Tac Toe grid -->
             <div cellIndex="0" class="cell"></div>
             <div cellIndex="1" class="cell"></div>
             <div cellIndex="2" class="cell"></div>
@@ -21,9 +26,12 @@
             <div cellIndex="7" class="cell"></div>
             <div cellIndex="8" class="cell"></div>
         </div>
+        <!-- Status text to display game results or messages -->
         <h2 id="statusText"></h2>
+        <!-- Restart button to start a new game -->
         <button id="restartBtn">Restart</button>
     </div>
+    <!-- Link to an external JavaScript file to handle game logic -->
     <script src="index.js"></script>
 </body>
 </html>
