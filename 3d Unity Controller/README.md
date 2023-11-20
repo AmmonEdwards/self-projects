@@ -12,7 +12,7 @@ Using: System.Collections, System.Collections.Generic, UnityEngine.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [YouTube](https://www.youtube.com/)
 * [Unity Docs](https://docs.unity.com/)
 
