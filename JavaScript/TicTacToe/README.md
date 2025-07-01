@@ -24,4 +24,3 @@ JavaScript.
 
 - I would like to add a line to cross off a three in a row.
 - I would like to make the UI look more appleaing and have the user change fonts and colors.
-- I can defently improve my understnding of css and hdml to do more cool things with the program.
